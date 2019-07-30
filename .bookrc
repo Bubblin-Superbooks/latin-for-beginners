@@ -1,0 +1,22 @@
+{
+  "name": "Latin for Beginners",
+  "type": "novel",
+  "has_page_numbers": true,
+  "mode": {
+    "HTML": "html",
+    "CSS": "css",
+    "JS": "js",
+    "HEAD": "html"
+  },
+  "cover": {
+    "punchline": "",
+    "toc": "",
+    "author_detail": "",
+    "colophon": "",
+    "synopsis": ""
+  },
+  "status": "published",
+  "asset_url": "https://raw.githubusercontent.com/marvindanig/latin-for-beginners/master/assets",
+  "book_id": 926,
+  "book_url": "https://bubblin.io/book/latin-for-beginners-by-benjamin-l-d-ooge"
+}
